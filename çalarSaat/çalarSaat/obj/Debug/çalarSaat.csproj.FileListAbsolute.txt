@@ -1,0 +1,10 @@
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\bin\Debug\çalarSaat.exe.config
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\bin\Debug\çalarSaat.exe
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\bin\Debug\çalarSaat.pdb
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\obj\Debug\çalarSaat.csproj.AssemblyReference.cache
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\obj\Debug\çalarSaat.Form1.resources
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\obj\Debug\çalarSaat.Properties.Resources.resources
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\obj\Debug\çalarSaat.csproj.GenerateResource.cache
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\obj\Debug\çalarSaat.csproj.CoreCompileInputs.cache
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\obj\Debug\çalarSaat.exe
+C:\Users\Moongazing\source\repos\çalarSaat\çalarSaat\obj\Debug\çalarSaat.pdb
